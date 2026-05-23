@@ -6,21 +6,17 @@
 
 ---
 
-## Programming Skills
-
-&nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;<b>Programming</b>
-&nbsp;&nbsp;»&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;♡&nbsp;&nbsp;IDL
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;<b>Scientific computing</b>
-&nbsp;&nbsp;»&nbsp;&nbsp;&nbsp;SciPy&nbsp;&nbsp;♡&nbsp;&nbsp;Astropy&nbsp;&nbsp;♡&nbsp;&nbsp;Matplotlib&nbsp;&nbsp;♡&nbsp;&nbsp;PyVista
-
----
-
-## Education
-
 &nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;<b>Ph.D. in Physics</b>&nbsp;&nbsp;»&nbsp;&nbsp;University of Michigan (2021)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;<b>B.A. in Physics</b>&nbsp;&nbsp;»&nbsp;&nbsp;Carleton College (2015)
+
+---
+
+&nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;<b>Programming</b>
+&nbsp;&nbsp;»&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;⟡&nbsp;&nbsp;IDL
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;<b>Scientific computing</b>
+&nbsp;&nbsp;»&nbsp;&nbsp;&nbsp;SciPy&nbsp;&nbsp;⟡&nbsp;&nbsp;Astropy&nbsp;&nbsp;⟡&nbsp;&nbsp;Matplotlib&nbsp;&nbsp;⟡&nbsp;&nbsp;PyVista
 
 ---
 
