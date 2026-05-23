@@ -13,9 +13,6 @@
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;<b>Scientific computing</b>
 &nbsp;&nbsp;»&nbsp;&nbsp;&nbsp;SciPy&nbsp;&nbsp;♡&nbsp;&nbsp;Astropy&nbsp;&nbsp;♡&nbsp;&nbsp;Matplotlib&nbsp;&nbsp;♡&nbsp;&nbsp;PyVista
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;<b>Tools</b>
-&nbsp;&nbsp;»&nbsp;&nbsp;&nbsp;VS Code&nbsp;&nbsp;♡&nbsp;&nbsp;Git&nbsp;&nbsp;♡&nbsp;&nbsp;Jupyter&nbsp;&nbsp;♡&nbsp;&nbsp;Tkinter&nbsp;&nbsp;♡&nbsp;&nbsp;Canvas
 
 ---
 
