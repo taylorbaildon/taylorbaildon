@@ -6,9 +6,7 @@
 
 ---
 
-<!--
-
-## Technical Skills
+## Programming Skills
 
 &nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;<b>Programming</b>
 &nbsp;&nbsp;»&nbsp;&nbsp;&nbsp;Python&nbsp;&nbsp;♡&nbsp;&nbsp;IDL
@@ -18,15 +16,6 @@
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;<b>Tools</b>
 &nbsp;&nbsp;»&nbsp;&nbsp;&nbsp;VS Code&nbsp;&nbsp;♡&nbsp;&nbsp;Git&nbsp;&nbsp;♡&nbsp;&nbsp;Jupyter&nbsp;&nbsp;♡&nbsp;&nbsp;Tkinter&nbsp;&nbsp;♡&nbsp;&nbsp;Canvas
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;<b>Shells</b>
-&nbsp;&nbsp;»&nbsp;&nbsp;&nbsp;Zsh&nbsp;&nbsp;♡&nbsp;&nbsp;Bash&nbsp;&nbsp;♡&nbsp;&nbsp;PowerShell
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;<b>Web & Typesetting</b>
-&nbsp;&nbsp;»&nbsp;&nbsp;&nbsp;HTML&nbsp;&nbsp;♡&nbsp;&nbsp;L<sup>A</sup>T<sub>E</sub>X
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;<b>Operating systems</b>
-&nbsp;&nbsp;»&nbsp;&nbsp;&nbsp;Windows 11&nbsp;&nbsp;♡&nbsp;&nbsp;MacOS&nbsp;&nbsp;♡&nbsp;&nbsp;Linux
 
 ---
 
@@ -37,6 +26,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;<b>B.A. in Physics</b>&nbsp;&nbsp;»&nbsp;&nbsp;Carleton College (2015)
 
 ---
+
+<!--
 
 ## Achievements
 
