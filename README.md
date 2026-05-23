@@ -6,6 +6,8 @@
 
 ---
 
+<!--
+
 ## Technical Skills
 
 &nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;<b>Programming</b>
@@ -54,7 +56,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;Online Instructor Certification (2025, Victor Valley College)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;RELATE Science Communication to Lay Audiences (2019, University of Michigan)
-
+-->
 
 
 <!--
